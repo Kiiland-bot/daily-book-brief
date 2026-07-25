@@ -5,4 +5,4 @@
 | 日付 | タイトル | 著者 |
 |---|---|---|
 | 2026-07-25 | 複利で伸びる1つの習慣（Atomic Habits） | ジェームズ・クリアー |
-| 2026-07-26 | 人を動かす（How to Win Friends and Influence People） | デール・カーネギー |
+| 2026-07-26 | サイコロジー・オブ・マネー（The Psychology of Money） | モーガン・ハウセル |
