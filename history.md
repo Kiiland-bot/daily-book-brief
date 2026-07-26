@@ -6,3 +6,4 @@
 |---|---|---|
 | 2026-07-25 | 複利で伸びる1つの習慣（Atomic Habits） | ジェームズ・クリアー |
 | 2026-07-26 | サイコロジー・オブ・マネー（The Psychology of Money） | モーガン・ハウセル |
+| 2026-07-27 | 影響力の武器（Influence: The Psychology of Persuasion） | ロバート・チャルディーニ |
