@@ -11,6 +11,5 @@
 | 2026-07-29 | 大事なことに集中する（Deep Work） | カル・ニューポート |
 | 2026-07-30 | 人を動かす（How to Win Friends and Influence People） | デール・カーネギー |
 | 2026-07-31 | ファスト&スロー（Thinking, Fast and Slow） | ダニエル・カーネマン |
-
 | 2026-08-01 | やり抜く力（GRIT） | アンジェラ・ダックワース |
 | 2026-08-02 | マインドセット「やればできる！」の研究 (Mindset: The New Psychology of Success) | キャロル・S・ドゥエック |
