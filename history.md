@@ -5,11 +5,4 @@
 | 日付 | タイトル | 著者 |
 |---|---|---|
 | 2026-07-25 | 複利で伸びる1つの習慣（Atomic Habits） | ジェームズ・クリアー |
-| 2026-07-26 | サイコロジー・オブ・マネー（The Psychology of Money） | モーガン・ハウセル |
-| 2026-07-27 | 影響力の武器（Influence） | ロバート・チャルディーニ |
-| 2026-07-28 | 夜と霧（Man's Search for Meaning） | ヴィクトール・E・フランクル |
-| 2026-07-29 | 大事なことに集中する（Deep Work） | カル・ニューポート |
-| 2026-07-30 | 人を動かす（How to Win Friends and Influence People） | デール・カーネギー |
-| 2026-07-31 | ファスト&スロー（Thinking, Fast and Slow） | ダニエル・カーネマン |
-| 2026-08-01 | やり抜く力（GRIT） | アンジェラ・ダックワース |
-| 2026-08-02 | マインドセット「やればできる！」の研究 (Mindset: The New Psychology of Success) | キャロル・S・ドゥエック |
+| 2026-08-04 | サイコロジー・オブ・マネー（The Psychology of Money） | モーガン・ハウセル |
